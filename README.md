@@ -14,5 +14,6 @@ Focusing on Linux server hardening, container orchestration, and high-performanc
 
 * **[vps-linux-hardening-paas](https://github.com/inok-it/vps-linux-hardening-paas)** – End-to-end production guide: from bare-metal provisioning and CIS/Lynis hardening to Docker PaaS deployment, SSO integration, and off-site R2 backups.
 
+* **[woocommerce-self-hosted-security-cloudflare](https://github.com/inok-it/woocommerce-self-hosted-security-cloudflare)** – Production-ready runbook and configurations for deploying secure, high-performance, single-tenant WooCommerce environments using Coolify, Docker, and Cloudflare.
 ---
 **Contact:** [kontakt@inogi.pl](mailto:kontakt@inogi.pl) | **Web:** [inogi.pl](https://inogi.pl)
